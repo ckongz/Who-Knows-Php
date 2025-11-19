@@ -80,8 +80,8 @@ $outro = [
 <meta charset="utf-8">
 <title><?php echo htmlspecialchars($title); ?> — Romantic PHP Remix</title> <!-- Page title -->
 <meta name="viewport" content="width=device-width,initial-scale=1"> <!-- Responsive design -->
-<link rel="stylesheet" href="styles.css"> <!-- External CSS file -->
-< <!-- Note: stray character here, possibly a typo -->
+<link rel="stylesheet" href="styles.css"> 
+
 </head>
 <body>
 <div class="stage"> <!-- Main content container -->
@@ -157,4 +157,5 @@ echo "<p>" . $outro[3] . "</p>";
 </footer>
 </div>
 </body>
+
 </html>
