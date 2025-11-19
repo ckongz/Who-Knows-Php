@@ -1,6 +1,6 @@
 🎵 Who-Knows-PHP
 
-Who-Knows-PHP is a PHP project that displays the song “But Who Knows?” by Daniel Caesar using variables, arrays, operators, and type juggling. The lyrics are dynamically rendered in styled HTML sections, including verses, choruses, bridge, and outro. 💻🎶
+Who-Knows-PHP is a PHP project that displays the song “But Who Knows?” by Daniel Caesar using variables, arrays, operators, and type juggling. The lyrics are dynamically rendered in styled HTML sections, including verses, choruses, bridge, and outro. 
 
 ✨ Features
 
